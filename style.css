@@ -34,15 +34,15 @@ a:active {
 h1,
 h2,
 h4 {
-    font-family: 'Roboto', sans-serif;
+font-family: 'Lobster Two', cursive;
     text-transform: uppercase;
-    font-weight: 800;
+    font-weight: 600;
     
    
 }
 
 p {
-    font-family: 'Roboto', sans-serif;
+   font-family: 'Cormorant Upright', serif;
     font-size: 28px;
     line-height: 21px;
 }
